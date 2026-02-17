@@ -1,4 +1,4 @@
-__***🏥 Groq-Based Medical Report Simplification & Clinical Text Analysis***__
+__🏥 Groq-Based Medical Report Simplification & Clinical Text Analysis__
 
 Welcome to Groq-Based Medical Report Simplification & Clinical Text Analysis, an AI-powered healthcare NLP project that transforms complex medical reports into clear, patient-friendly explanations while performing intelligent clinical text analysis.
 
