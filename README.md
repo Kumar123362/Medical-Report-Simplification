@@ -1,11 +1,11 @@
-🏥 Groq-Based Medical Report Simplification & Clinical Text Analysis
+***🏥 Groq-Based Medical Report Simplification & Clinical Text Analysis***
 
 Welcome to Groq-Based Medical Report Simplification & Clinical Text Analysis, an AI-powered healthcare NLP project that transforms complex medical reports into clear, patient-friendly explanations while performing intelligent clinical text analysis.
 
 This system leverages Groq LLM inference, modern NLP pipelines, and interactive deployment to make medical information easier to understand for patients, students, and healthcare assistants.
 .
 
-📌 Project Overview
+**📌 Project Overview**
 
 Medical reports often contain technical jargon that is difficult for non-experts to understand. This project solves that problem by:
 
@@ -16,7 +16,8 @@ Medical reports often contain technical jargon that is difficult for non-experts
 ✅ Enabling interactive AI-powered analysis
 
 The goal is to bridge the communication gap between clinical documentation and patient comprehension.
-🎯 Key Features
+
+**🎯 Key Features**
 
 🧠 Medical Text Simplification – Converts complex clinical notes into simple explanations
 
@@ -30,9 +31,9 @@ The goal is to bridge the communication gap between clinical documentation and p
 
 🔒 Privacy-Friendly Design – Focused on safe handling of sensitive text
 
-🎥 Demo
+**🎥 Demo**
 
-🧩 Workflow Explanation
+**🧩 Workflow Explanation**
 
 Think of this system as a smart medical translator:
 
@@ -46,8 +47,7 @@ A simplified explanation is generated
 
 A patient-friendly summary is returned
 
-
-📂 Project Structure
+**📂 Project Structure**
 
 Grop_Medical_Project/
 │
@@ -63,7 +63,8 @@ Grop_Medical_Project/
 │
 ├── __pycache__/        # Python cache (auto-generated)
 └── venv/               # Virtual environment (ignored in Git)
-🖥️ Run Locally
+
+**🖥️ Run Locally**
 
 Clone and run:
 
@@ -78,7 +79,7 @@ App runs at:
 
 http://127.0.0.1:5000
 
-🔐 Environment Setup
+**🔐 Environment Setup**
 
 Create a .env file:
 
@@ -99,7 +100,7 @@ Start command:
 
 python app.py
 
-🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Python 3.10+
 
@@ -115,13 +116,13 @@ Pillow – Image handling
 
 python-dotenv – Environment management
 
-⚠️ Medical Disclaimer
+**⚠️ Medical Disclaimer**
 
 This project is for educational and research purposes only.
 It is not a medical device and should not replace professional medical advice.
 
 Always consult a licensed healthcare professional.
 
-📜 License
+**📜 License**
 
 MIT License – see LICENSE file.
