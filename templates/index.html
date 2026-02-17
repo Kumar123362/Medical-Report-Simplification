@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Medical Report Analyzer</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="container">
+
+    <h2>Groq-Based Medical Report Simplification</h2>
+
+    <form method="POST" enctype="multipart/form-data">
+        <input type="file" name="file" required>
+        <button type="submit">Analyze Report</button>
+    </form>
+
+    <div class="result-box">
+        <h3>Result</h3>
+        <pre>{{ result }}</pre>
+    </div>
+
+    <div class="footer">
+        Powered by Groq AI
+    </div>
+
+</div>
+
+</body>
+</html>
